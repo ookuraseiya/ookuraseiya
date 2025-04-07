@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/nujtm_mpvm" target="blank"><img src="https://img.shields.io/twitter/follow/nujtm_mpvm?logo=twitter&style=for-the-badge" alt="nujtm_mpvm" /></a> </p>
 
-- 🌱 I’m currently learning **I am learning all the different technologies that interest me.**
-
 - 👨‍💻 All of my projects are available at [https://seiya-portfolio-site.netlify.app/](https://seiya-portfolio-site.netlify.app/)
 
 - 📫 How to reach me **seiya.ookura@gmail.com**
