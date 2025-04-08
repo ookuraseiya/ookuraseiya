@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm seiya</h1>
-<h3 align="center">Front-end and back-end PG for smartphone and web apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ookuraseiya&label=Profile%20views&color=0e75b6&style=flat" alt="ookuraseiya" /> </p>
 
