@@ -23,7 +23,7 @@
 - 👨‍💻 **Portfolio**  
   → [seiya-portfolio-site.netlify.app](https://seiya-portfolio-site.netlify.app/)
 - ✍️ **Tech Blog (Next.js × microCMS)**  
-  → [www.seiya-tech-blog.com](https://www.seiya-tech-blog.com/)
+  → [seiya-tech-blog.com](https://seiya-tech-blog.com/)
 - 📫 **Contact**  
   → **seiya.ookura@gmail.com**
 
