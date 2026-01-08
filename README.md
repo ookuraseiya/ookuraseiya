@@ -60,9 +60,9 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats -->
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ookuraseiya&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ookuraseiya&layout=compact&theme=tokyonight" />
-</p>
+<!-- <p align="center"> -->
+<!--   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ookuraseiya&show_icons=true&theme=tokyonight" /> -->
+<!--   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ookuraseiya&layout=compact&theme=tokyonight" /> -->
+<!-- </p> -->
