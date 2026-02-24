@@ -4,18 +4,6 @@
   React · Next.js · TypeScript
 </h3>
 
-<br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ookuraseiya&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/nujtm_mpvm" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/nujtm_mpvm?logo=twitter&style=for-the-badge" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -24,6 +12,8 @@
   → [seiya-portfolio-site.netlify.app](https://seiya-portfolio-site.netlify.app/)
 - ✍️ **Tech Blog (Next.js × microCMS)**  
   → [seiya-tech-blog.com](https://seiya-tech-blog.com/)
+- 🐦 **Twitter**  
+  → [@nujtm_mpvm](https://x.com/nujtm_mpvm)
 - 📫 **Contact**  
   → **seiya.ookura@gmail.com**
 
