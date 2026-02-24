@@ -15,7 +15,7 @@
 - 🐦 **Twitter**  
   → [@nujtm_mpvm](https://x.com/nujtm_mpvm)
 - 📫 **Contact**  
-  → **seiya.ookura@gmail.com**
+  → seiya.ookura@gmail.com
 
 ---
 
